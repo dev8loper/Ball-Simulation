@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/version-v1.0.0-blue)
 
-Made with <img src="libgdx_logo.svg" width="64">
+<img src="libgdx_logo.svg" width="64"> oyun motoru kullanılarak hazırlanmıştır.
 
 https://libgdx.com/wiki/
 
