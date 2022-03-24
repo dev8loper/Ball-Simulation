@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/dev8loper/Ball-Simulation/main/assets/blue.png" width="24"> Ball Simulation
 
-![logo](libgdx_logo.svg)
+Made with <img src="libgdx_logo.svg" width="64">
 
 ![](https://img.shields.io/badge/version-v1.0.0-blue)
 
