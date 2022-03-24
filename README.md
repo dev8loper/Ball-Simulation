@@ -1,5 +1,5 @@
 # Ball-Simulation
-Ball Simulation App
+## Ball Simulation App
 
 ![logo](libgdx_logo.svg)
 
@@ -9,5 +9,6 @@ Bu kaynakta LibGDX kütüphanesi kullanılarak nesneler üzerinde ki yer çekimi
 
 Siirt Üniversitesi, Simülasyon ve Modelleme dersi için hazırlanmıştır. 
 
-Ekran Görüntüsü:
+## Ekran Görüntüsü:
+
 ![](screenshot.png)
