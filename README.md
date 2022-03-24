@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/dev8loper/Ball-Simulation/main/assets/blue.png" width="24"> Ball-Simulation
+# <img src="https://raw.githubusercontent.com/dev8loper/Ball-Simulation/main/assets/blue.png" width="24"> Ball Simulation
 
 ![logo](libgdx_logo.svg)
 
