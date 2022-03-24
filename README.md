@@ -8,7 +8,7 @@ https://libgdx.com/wiki/
 
 ## Ball Simulation App
 
-Bu kaynakta LibGDX kütüphanesi kullanılarak nesneler üzerinde ki yer çekimi ve nesneler arasıda çarpma (collision) deneyimleri simüle edilmiştir.
+Bu kaynakta LibGDX kütüphanesi kullanılarak nesneler üzerinde ki yer çekimi ve nesneler arasında çarpışma (collision) deneyimleri simüle edilmiştir.
 
 Siirt Üniversitesi, Simülasyon ve Modelleme dersi için hazırlanmıştır.
 
